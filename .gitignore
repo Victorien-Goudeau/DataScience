@@ -3,3 +3,5 @@ data/
 tensorboard/
 models/
 .vscode/
+annotations/
+train2014/
