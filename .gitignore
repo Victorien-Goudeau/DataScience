@@ -5,3 +5,4 @@ models/
 .vscode/
 annotations/
 train2014/
+denoised_train2014/
